@@ -3,7 +3,6 @@ import os
 import numpy as np
 import uvicorn
 from pydantic import BaseModel
-import pandas as pd
 import joblib
 import re
 
